@@ -1,0 +1,17 @@
+[
+    {
+        "correo_usuario": "luis@gmail.com",
+        "codigo_producto": "P001",
+        "cantidad": 1
+    },
+    {
+        "correo_usuario": "luis@gmail.com",
+        "codigo_producto": "P001",
+        "cantidad": 1
+    },
+    {
+        "correo_usuario": "luis@gmail.com",
+        "codigo_producto": "P001",
+        "cantidad": 1
+    }
+]
